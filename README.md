@@ -474,13 +474,12 @@ curl -X POST http://localhost:8080/api/barang \
 - [x] Testing checklist
 
 ---
+### TAMPILAN
+<img width="959" height="539" alt="Screenshot 2026-06-21 224648" src="https://github.com/user-attachments/assets/a161a153-ea31-4c9a-b8ce-c72f58843e94" />
 
-## 🔗 Links
+<img width="959" height="539" alt="Screenshot 2026-06-21 224709" src="https://github.com/user-attachments/assets/ebc8274a-5f70-4fe6-9c0a-0789b773e191" />
 
-**GitHub Repository:** [Link akan ditambahkan setelah push]  
-**YouTube Video:** [Link akan ditambahkan setelah upload]
+<img width="959" height="500" alt="Screenshot 2026-06-21 224722" src="https://github.com/user-attachments/assets/ff46cd10-9e00-4ae9-a3ff-1ee015a3cfd3" />
 
----
 
-**Status:** ✅ **Production Ready for UAS Submission**  
-**Last Updated:** 2026-06-21
+
