@@ -1,4 +1,12 @@
-# E-Inventory System - UAS Tugas Proyek Akhir Pemrograman Web 2
+# PeyimpananXX - UAS Tugas Proyek Akhir Pemrograman Web 2
+# Muhamad Wafa MUfida Zulfi
+# 312410334
+# I241D
+# Agung Nugroho
+
+## Link Youtube :
+## Link HOsting :
+
 
 **Proyek:** Sistem Manajemen Inventaris Barang (E-Inventory)  
 **Arsitektur:** Decoupled Architecture (Backend API + Frontend SPA)  
