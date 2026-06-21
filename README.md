@@ -17,3 +17,14 @@
 
 ## Link Registrasi 📝: Tulisan "Daftar Akun Baru" di bawah untuk mendaftarkan admin baru ke dalam database.
 
+<img width="959" height="539" alt="Screenshot 2026-06-21 224709" src="https://github.com/user-attachments/assets/9529cd53-1be4-4505-92ce-52be1a75a171" />
+
+## Kode Barang 🆔: Menggunakan format yang terstruktur (seperti BRG-ELK-001) yang memudahkan pencarian data.
+
+## Nama Barang & Kategori 💻📱: Ada info produk seperti Laptop ASUS ROG, Samsung Galaxy S23, sampai Keyboard Gaming dengan label kategori Elektronik & Gadget yang dikemas rapi di dalam capsule badge.
+
+## Supplier 🏢: Menampilkan nama perusahaan/CV penyedia barang, contohnya PT. Indo Distribusi Utama.
+
+## Harga & Stok 💰📦: Detail harga dalam format Rupiah serta jumlah stok lengkap dengan satuan pcs (berwarna oranye untuk stok sedikit/kritis dan hijau untuk stok aman).
+
+## Aksi (Edit ✏️ / Hapus 🗑️): Menu eksekusi cepat untuk mengubah informasi barang jika ada kesalahan atau menghapusnya jika sudah tidak digudangkan lagi.
