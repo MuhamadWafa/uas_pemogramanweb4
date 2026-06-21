@@ -28,3 +28,11 @@
 ## Harga & Stok 💰📦: Detail harga dalam format Rupiah serta jumlah stok lengkap dengan satuan pcs (berwarna oranye untuk stok sedikit/kritis dan hijau untuk stok aman).
 
 ## Aksi (Edit ✏️ / Hapus 🗑️): Menu eksekusi cepat untuk mengubah informasi barang jika ada kesalahan atau menghapusnya jika sudah tidak digudangkan lagi.
+
+<img width="959" height="500" alt="Screenshot 2026-06-21 224722" src="https://github.com/user-attachments/assets/9f6abf23-4f21-4e6e-8ffb-9482e464a080" />
+
+## Kode Barang 🆔: Dilengkapi dengan placeholder samar (Contoh: BRG-001) sebagai panduan format pengisian.
+
+## Nama Barang 🏷️: Kolom untuk mengetikkan nama produk yang akan dimasukkan (dengan contoh placeholder Contoh: Laptop Asus).
+
+## Harga (Rupiah) & Stok Awal 💰📦: Dua kolom berdampingan yang diatur dengan nilai default awal 0. Kolom ini berguna untuk menentukan harga jual serta jumlah awal barang yang baru masuk gudang.
