@@ -4,8 +4,9 @@
 # I241D
 # Agung Nugroho
 
-## Link Youtube :  https://youtu.be/D1e6IXLayj4?si=xLWsSdPaCwypgaqU
-## Link HOsting :  https://errors.infinityfree.net/errors/403/
+## Link Praktikum 1-14 :  https://github.com/MuhamadWafa/Praktikum1-14.git
+## Link Youtube        :  https://youtu.be/D1e6IXLayj4?si=xLWsSdPaCwypgaqU
+## Link HOsting        :  https://errors.infinityfree.net/errors/403/
 
 
 **Proyek:** Sistem Manajemen Inventaris Barang (E-Inventory)  
